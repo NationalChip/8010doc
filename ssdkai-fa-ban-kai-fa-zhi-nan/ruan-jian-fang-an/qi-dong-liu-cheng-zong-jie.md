@@ -1,8 +1,4 @@
-# **软件方案**
-
-## 
-
-## 启动流程总结
+# 启动流程总结
 
 * MCU 初始化部分硬件后会加载uboot stage1 到SRAM 中，uboot stage1运行起来以后会将DDR 初始化，然后将uboot stage2 加载到DDR 中，并跳转到DDR 执行。uboot stage2 代码运行起来以后，会将板级相关硬件初始化，然后加载Kernel。
 
@@ -36,6 +32,5 @@ bootcmd 是默认的启动命令，例如
 
 bootcmd=run netload;run mmcboot
 
-默认从tftp 加载Kernel 和dtb，从SD 卡加载rootfs 并启动，开发者可修  
-改此值为想要的启动方式。
+默认从tftp 加载Kernel 和dtb，从SD 卡加载rootfs 并启动，开发者可修改此值为想要的启动方式。
 

@@ -8,18 +8,14 @@ VSP（语音信号处理）是专为 GX8010 芯片研发的语音信号处理框
 
 阅读本文前，假定读者掌握 context 的结构以及它的内存结构，假定读者安装好 DSP 工具链。如未掌握，请详细阅读：GX8010\_VSP\_SDK\_DG.pdf
 
----
-
 ## 工作原理 {#12-工作原理}
 
 从 wave 文件中读取音频数据，按照 VSP 框架中 context 结构封装，送到 dsp 算法进行处理。
 
 ## **vsp** 与 vsp\_simulate 区别
 
-1. **运行环境不同**
-   ：vsp 含有 dsp、mcu、npu、cpu 相关驱动及其代码逻辑，是运行在 GX8010 芯片上；vsp\_simultae 只含有 dsp 的算法逻辑以及处理文件的代码逻辑，是运行在 PC 上。
-2. **wave 数据来源不同**
-   ：vsp 框架中的 context 中的 wave 数据是 GX8010 芯片通过麦克风小板采集的实时 wave 数据，由 mcu 封装成一个一个的 context 后发给 dsp 去处理；vsp\_simulate 是通过读取 wave 文件，模拟 mcu 封装成与 VSP 框架一致的 context，发给 dsp 算法处理。
+1. **运行环境不同**：vsp 含有 dsp、mcu、npu、cpu 相关驱动及其代码逻辑，是运行在 GX8010 芯片上；vsp\_simultae 只含有 dsp 的算法逻辑以及处理文件的代码逻辑，是运行在 PC 上。
+2. **wave 数据来源不同**：vsp 框架中的 context 中的 wave 数据是 GX8010 芯片通过麦克风小板采集的实时 wave 数据，由 mcu 封装成一个一个的 context 后发给 dsp 去处理；vsp\_simulate 是通过读取 wave 文件，模拟 mcu 封装成与 VSP 框架一致的 context，发给 dsp 算法处理。
 
 
 
