@@ -94,7 +94,6 @@ State\_h0: \[1, 96\]
 State\_c1: \[1, 96\]
 
 State\_h1: \[1, 96\]
-
 ```
 
 OUTPUT\_OPS: \[Model/rnn\_out, State\_c0\_out, State\_h0\_out, State\_c1\_out, State\_h1\_out\]
