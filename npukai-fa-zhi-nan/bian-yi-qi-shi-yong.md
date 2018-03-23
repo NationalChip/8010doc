@@ -20,7 +20,6 @@ gen\_model.py里的内容为：
 >
 > ```
 >     npu_compiler.run(config)
->
 > ```
 
 ## 编译器的OP支持范围 {#编译器的op支持范围}
