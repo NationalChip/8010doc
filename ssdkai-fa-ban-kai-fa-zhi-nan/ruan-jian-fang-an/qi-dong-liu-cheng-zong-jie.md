@@ -10,11 +10,11 @@ rootfs 加载方式：mmcboot，nfsboot，nandboot
 
 不同的组合对应不同的启动方式
 
-1.从NOR Flash 加载Kernel 和dtb，从SD 卡加载rootfs 并启动
+1.从NOR Flash加载Kernel和dtb，从SD卡加载rootfs 并启动
 
 bootfnor=run norload;run mmcboot
 
-2.从NAND Flash 加载Kernel、dtb 和rootfs 并启动
+2.从NAND Flash加载Kernel、dtb和rootfs 并启动
 
 bootnand=run nandload;run nandboot
 

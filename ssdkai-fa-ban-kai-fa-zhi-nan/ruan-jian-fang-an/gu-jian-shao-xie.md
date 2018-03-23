@@ -1,6 +1,6 @@
 # **固件烧写**
 
-通过MCU 端串口来进行固件的烧写， 烧写的工具为bootx ，使用leo\_nre.boot\(进行烧录的片上运行程序\)，烧写命令在Linux shell 下执行，每次烧写都需要板子reset 或重新上电，具体的烧写命令如下：
+通过MCU 端串口来进行固件的烧写， 烧写的工具为bootx ，使用leo\_nre.boot（进行烧录的片上运行程序），烧写命令在Linux shell 下执行，每次烧写都需要板子reset 或重新上电，具体的烧写命令如下：
 
 1.download mcu.bin
 

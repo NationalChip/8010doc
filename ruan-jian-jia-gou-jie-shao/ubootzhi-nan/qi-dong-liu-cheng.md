@@ -1,7 +1,7 @@
 # 启动流程
 
-1. 系统上电后执行iROM的代码iROM中检测OM pin选择启动介质\(serial/usb/nand/nor ...\)，从启动介质将bootloader的stage1加载到内 部SRAM中，并跳转到SRAM中执行。
-2. 跳转到sram中后，需要对部分硬件进行初始化\(最关键是初始化DDR\)，然后将bootloader的stage2加载到DDR中去，然后跳转到DDR 执行stage2。
+1. 系统上电后执行iROM的代码iROM中检测OM pin选择启动介质（serial/usb/nand/nor ...），从启动介质将bootloader的stage1加载到内 部SRAM中，并跳转到SRAM中执行。
+2. 跳转到sram中后，需要对部分硬件进行初始化（最关键是初始化DDR），然后将bootloader的stage2加载到DDR中去，然后跳转到DDR 执行stage2。
 3. 在bootlaoder stage2中对板级的相关硬件进行初始化，然后将kernel加载到DDR中，执行kernel代码，那么接下来就没bootload什么事情了。
 
 ---
