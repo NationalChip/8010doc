@@ -180,10 +180,6 @@ Sf 配置
 
 "FilePath":"/Users/alan/Reference/DSPatch/example/Sample.wav",
 
-国芯科技内部资料
-
-第 7 页 共 15 页
-
 "Play":true
 
 }
@@ -274,8 +270,6 @@ GraphEditor 最初的目的，是方便查看SenseFlow 目录下的circuits 内�
 
 ![](https://13421398942.gitbooks.io/gx8010_senseflow/content/assets/1.jpg)
 
-
-
-[  
+[    
 ](https://13421398942.gitbooks.io/gx8010_senseflow/content/di-3-zhang-senseflow-yun-xing-ji-zhi.html)
 

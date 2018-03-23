@@ -69,17 +69,18 @@
     * [profile分析](dspkai-fa-zhi-nan/pcfang-zhen/profilefen-xi.md)
     * [xt-size 分析dsp需要的内存大小](dspkai-fa-zhi-nan/pcfang-zhen/xt-size-fen-xi-dsp-xu-yao-de-nei-cun-da-xiao.md)
   * [算法优化](dspkai-fa-zhi-nan/suan-fa-you-hua.md)
-    * [概述](dspkai-fa-zhi-nan/suan-fa-you-hua/gai-shu.md)
     * [浮点数存储规范](dspkai-fa-zhi-nan/suan-fa-you-hua/fu-dian-shu-cun-chu-gui-fan.md)
     * [数的定标](dspkai-fa-zhi-nan/suan-fa-you-hua/shu-de-ding-biao.md)
     * [定点的四则运算以及定点精度损失的影响](dspkai-fa-zhi-nan/suan-fa-you-hua/ding-dian-de-si-ze-yun-suan-yi-ji-ding-dian-jing-du-sun-shi-de-ying-xiang.md)
     * [如何确定定标 Q 值](dspkai-fa-zhi-nan/suan-fa-you-hua/ru-he-que-ding-ding-biao-q-zhi.md)
-    * HIFI 定点库使用
+    * [HIFI 定点库使用](dspkai-fa-zhi-nan/suan-fa-you-hua/hifi-ding-dian-ku-shi-yong.md)
   * [算法部署调试](dspkai-fa-zhi-nan/suan-fa-bu-shu-diao-shi.md)
-* NPU开发指南
-  * NPU简介
-  * 编译器安装
-  * 编译器使用
-  * 模型部署
-  * PC仿真
+* [NPU开发指南](npukai-fa-zhi-nan.md)
+  * [NPU简介](npukai-fa-zhi-nan/npujian-jie.md)
+  * [编译器安装](npukai-fa-zhi-nan/bian-yi-qi-an-zhuang.md)
+  * [编译器使用](npukai-fa-zhi-nan/bian-yi-qi-shi-yong.md)
+  * [模型部署](npukai-fa-zhi-nan/mo-xing-bu-shu.md)
+  * [PC仿真](npukai-fa-zhi-nan/pcfang-zhen.md)
+    * [NPU模拟器介绍](npukai-fa-zhi-nan/pcfang-zhen/npumo-ni-qi-jie-shao.md)
+    * [NPU模拟器使用](npukai-fa-zhi-nan/pcfang-zhen/npumo-ni-qi-shi-yong.md)
 

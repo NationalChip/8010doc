@@ -26,10 +26,6 @@ AddOutput\_\("output\_yfq"\);
 
 ~SfYFQSource\(\)
 
-国芯科技内部资料
-
-第 12 页 共 15 页
-
 {
 
 }
@@ -113,10 +109,6 @@ return true;
 }
 
 };
-
-国芯科技内部资料
-
-第 13 页 共 15 页
 
 REGISTER\_COMPONENT\(SfYFQOutput\)
 
