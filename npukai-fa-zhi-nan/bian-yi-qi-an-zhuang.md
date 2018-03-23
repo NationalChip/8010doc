@@ -1,7 +1,5 @@
 # 编译器安装
 
-## 编译器安装 {#编译器安装}
-
 首次安装：
 
 `pip install -i https://testpypi.python.org/pypi npu_compiler`
