@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [产品简介](chapter1.md)
+* [产品简介](README.md)
 * [硬件开发板说明](ying-jian-kai-fa-ban-shuo-ming.md)
   * [SSD开发板用户指南](ssdkai-fa-ban-kai-fa-zhi-nan.md)
     * [硬件方案](ssdkai-fa-ban-kai-fa-zhi-nan/ying-jian-fang-an.md)
