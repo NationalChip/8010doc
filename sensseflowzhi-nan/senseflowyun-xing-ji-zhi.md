@@ -6,7 +6,7 @@
 
 组件实现好以后，需要注册进 sensflow，使用如下函数：
 
-![](/assets/GX8010_SenseFlow%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.jpg)
+![](/assets/GX8010_SenseFlow开发指南.jpg)
 
 ---
 

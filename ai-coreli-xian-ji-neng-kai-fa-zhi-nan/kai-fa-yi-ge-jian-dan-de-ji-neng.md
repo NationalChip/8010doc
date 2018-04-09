@@ -12,11 +12,11 @@
 
 实现arithmetic skill
 
-![](/assets/6a072834-3bc6-11e8-8ff5-8c89a5b77afc.bmp)
+![](/assets/skill开发指南.bmp)
 
 内部至少包含：Vocab，\_\_init\_\_.py，skill.json
 
-![](/assets/skill%E5%BC%80%E5%8F%91%E7%AE%80%E5%8D%95%E5%85%A5%E6%89%8B2.bmp)
+![](/assets/skill开发指南2.bmp)
 
 skill.json 内容如下：
 
