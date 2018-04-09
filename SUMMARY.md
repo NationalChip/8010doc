@@ -22,6 +22,7 @@
   * [下载代码](da-jian-kai-fa-huan-jing/xia-zai-dai-ma.md)
   * [工具链安装](da-jian-kai-fa-huan-jing/gong-ju-lian-an-zhuang.md)
   * [下载器使用](da-jian-kai-fa-huan-jing/xia-zai-qi-shi-yong.md)
+  * [GX8010和GX8008烧录工具使用指南](da-jian-kai-fa-huan-jing/gx8010he-gx8008-shao-lu-gong-ju-shi-yong-zhi-nan.md)
 * [软件开发指南](ruan-jian-kai-fa-zhi-nan.md)
   * [软件架构介绍](ruan-jian-jia-gou-jie-shao.md)
   * [Uboot指南](ruan-jian-jia-gou-jie-shao/ubootzhi-nan.md)
