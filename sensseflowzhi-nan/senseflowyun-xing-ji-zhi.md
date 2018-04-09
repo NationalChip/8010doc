@@ -6,7 +6,7 @@
 
 组件实现好以后，需要注册进 sensflow，使用如下函数：
 
-![](https://13421398942.gitbooks.io/gx8010_senseflow/content/assets/GX8010_SenseFlow%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.jpg)
+![](/assets/GX8010_SenseFlow%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97.jpg)
 
 ---
 
@@ -14,7 +14,7 @@
 
 我们可以看到，在文件的最后，调用了该函数
 
-![](https://13421398942.gitbooks.io/gx8010_senseflow/content/assets/2.bmp)
+![](/assets/2.bmp)
 
 ---
 
@@ -24,7 +24,7 @@
 
 组件是什么？
 
-![](https://13421398942.gitbooks.io/gx8010_senseflow/content/assets/3.jpg)
+![](/assets/3.jpg)
 
 我们实现的任何一个组件必须从SfComponent 继承而来。
 
@@ -32,13 +32,13 @@
 
 SfCircuit 就类似下面的这个东东，组件在内部进行了连接，数据按照连接的方向流动，
 
-![](https://13421398942.gitbooks.io/gx8010_senseflow/content/assets/4.jpg)
+![](/assets/4.jpg)
 
 每个组件需要有 输入 接口和 输出 接口，并且内部要实现process 处理函数
 
 就像下面这个组件，有一个输入接口和一个输出接口
 
-![](https://13421398942.gitbooks.io/gx8010_senseflow/content/assets/5.jpg)
+![](/assets/5.jpg)
 
 组件的操作是“拉”模式
 
@@ -60,7 +60,7 @@ void Reset\(\);
 
 Tick\(\)，Reset\(\) 来进行的。
 
-![](https://13421398942.gitbooks.io/gx8010_senseflow/content/assets/6.jpg)从上图，我们就可以看出，为什么叫做 “拉模式”
+![](/assets/6.jpg)从上图，我们就可以看出，为什么叫做 “拉模式”
 
 因为数据的流动处理，都是从最后一个组件进行拉操作，一直遍历input 连接上的上一个组件，一直遍历下去至到最后一个。
 

@@ -52,13 +52,13 @@ chmod +x Xplorer-7.0.8-linux-installer.bin
 
 #### 3. 添加 License
 
-双击桌面的 RUN Xplorer 7.0.8，打开 Xplorer, 点击菜单栏的 "Help" - "Xplorer License Keys"，在弹出的对话框上点击"Install Software Keys"，输入License \(请向国芯FAE索取），点击"Finish"。 如果可以看到图中红框提示就表示添加成功。如下图：![](https://nationalchip.gitbooks.io/dsp/content/assets/license_ok.png)
+双击桌面的 RUN Xplorer 7.0.8，打开 Xplorer, 点击菜单栏的 "Help" - "Xplorer License Keys"，在弹出的对话框上点击"Install Software Keys"，输入License \(请向国芯FAE索取），点击"Finish"。 如果可以看到图中红框提示就表示添加成功。如下图：![](/assets/license_ok.png)
 
 #### 4. 添加CORE
 
 我们目前使用的DSP processor core是GXHifi4\_170719A\_G1708，需要手动添加到Xplorer中。
 
-右键点击"System Overview"窗口中的"Configurations"，选择"Find and Install a Configuration Build"，在弹出的窗口中点击"Browser"并选择configuration文件（linux为GXHifi4\_170719A\_G1708\_linux\_redist.tgz），点击"OK"。 添加完成后，可以在"System Overview“窗口的"Configurations"中找到刚添加的"GXHifi4\_170719A\_G1708"，如下图红框所示。![](https://nationalchip.gitbooks.io/dsp/content/assets/nre_core_ok.png)
+右键点击"System Overview"窗口中的"Configurations"，选择"Find and Install a Configuration Build"，在弹出的窗口中点击"Browser"并选择configuration文件（linux为GXHifi4\_170719A\_G1708\_linux\_redist.tgz），点击"OK"。 添加完成后，可以在"System Overview“窗口的"Configurations"中找到刚添加的"GXHifi4\_170719A\_G1708"，如下图红框所示。![](/assets/nre_core_ok.png)
 
 #### 5. 环境配置
 

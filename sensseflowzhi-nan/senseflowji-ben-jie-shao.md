@@ -268,7 +268,7 @@ GraphEditor 最初的目的，是方便查看SenseFlow 目录下的circuits 内�
 
 因此，开发了这么一个辅助工具，可以查看，编辑 sf 文件，可以创建新的sf 文件
 
-![](https://13421398942.gitbooks.io/gx8010_senseflow/content/assets/1.jpg)
+![](/assets/1.jpg)
 
 [    
 ](https://13421398942.gitbooks.io/gx8010_senseflow/content/di-3-zhang-senseflow-yun-xing-ji-zhi.html)

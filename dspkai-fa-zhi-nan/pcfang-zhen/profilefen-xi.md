@@ -8,7 +8,7 @@ gprof 是 GNU Binutils 之一，它能为 Linux 程序精确分析性能瓶颈�
 
 ### xt-gprof 命令产生 profile
 
-如何使用该命令，请阅读 tb/Makefile。产生 profile 报告前，建议将 vsp\_main.c 中的宏 CALC\_PROFILE 打开，能缩短产生 profile 报告的时间。 下图是一份 profile 报告。![](https://nationalchip.gitbooks.io/vsp_simulate/content/assets/选区_115.png)
+如何使用该命令，请阅读 tb/Makefile。产生 profile 报告前，建议将 vsp\_main.c 中的宏 CALC\_PROFILE 打开，能缩短产生 profile 报告的时间。 下图是一份 profile 报告。![](/assets/选区_115.png)
 
 **报告说明：**
 

@@ -58,7 +58,7 @@ gxnpu\_rebuild\_ckpt:
 
 ---
 
-![](https://13421398942.gitbooks.io/gx8010_npu/content/assets/xx.jpg)
+![](/assets/xx.jpg)
 
 一个例子
 

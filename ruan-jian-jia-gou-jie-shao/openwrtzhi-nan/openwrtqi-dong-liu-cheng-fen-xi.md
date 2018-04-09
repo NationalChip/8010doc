@@ -34,5 +34,5 @@ if \(!try\_to\_run\_init\_process\("/etc/preinit"\) \|\|
 
 /sbin/init应用程序主函数位于procd/initd/init.c 文件。大致流程如下：
 
-![](https://13421398942.gitbooks.io/gx8010_openwrt/content/assets/openwrt_sbin_init.png)
+![](/assets/openwrt_sbin_init.png)
 

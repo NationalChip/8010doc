@@ -1,6 +1,6 @@
 # /lib/preinit/目录分析
 
-![](https://13421398942.gitbooks.io/gx8010_openwrt/content/assets/2.jpg)
+![](/assets/2.jpg)
 
-![](https://13421398942.gitbooks.io/gx8010_openwrt/content/assets/3.jpg)
+![](/assets/7fd6baa8-3bc6-11e8-8ff5-8c89a5b77afc.jpg)
 

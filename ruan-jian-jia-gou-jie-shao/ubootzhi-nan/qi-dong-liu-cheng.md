@@ -6,7 +6,7 @@
 
 ---
 
-![](https://13421398942.gitbooks.io/gx8010_uboot-openwrt/content/assets/GX8010.png)
+![](/assets/GX8010.png)
 
 1. 系统上电执行iROM的代码，iROM中的代码会按顺序尝试从（serial、spi nor、spi nand ...）启动。iROM是通过gxscpu，bin文件的头信息来判断是什么介质（0xaa55aa55-spi nor, 0xbb55bb55-spi nand）。并且只加载gxscpu.bin的前8k代码到csky的SRAM中执行（我们把这部分代码叫做ck stage1）。
 2. gxscpu.bin的前8k代码初始化部分硬件后，然后把剩余的代码加载到SRAM中来（我们把这部分代码叫做ck stage2）。

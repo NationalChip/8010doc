@@ -1,6 +1,6 @@
 # 工程目录结构 {#4-工程目录结构}
 
-![](https://nationalchip.gitbooks.io/vsp_simulate/content/assets/%E9%80%89%E5%8C%BA_114.png)
+![](/assets/%E9%80%89%E5%8C%BA_114.png)
 
 vsp\_simulate 的目录结构如上图所示。
 

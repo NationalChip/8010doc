@@ -20,11 +20,11 @@ IEEE754规定浮点数由三部分组成：
 
 4. 单精度格式：
 
-![](https://nationalchip.gitbooks.io/float_to_fix/content/assets/选区_116.png)
+![](/assets/选区_116.png)
 
 就单精度举例说明：10进制的 0.8125，换成二进制是0.1101，相当于$$1.101*2^{-1}$$。S=0; e = -1+127=126=111 1110; f=101。将这三个值代入上图就可以得到0.8125在内存中的值应该是：0x3f500000。
 
 * 双精度格式：
 
-![](https://nationalchip.gitbooks.io/float_to_fix/content/assets/选区_117.png)
+![](/assets/选区_117.png)
 

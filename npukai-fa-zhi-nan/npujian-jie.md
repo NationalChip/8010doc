@@ -1,6 +1,6 @@
 # 概述
 
-GXDNN用于将用户生成的Tensorflow模型编译成可以被NPU硬件模块执行的指令，并提供了一套API让用户方便地运行Tensorflow模型。![](https://www.showdoc.cc/home/common/visitfile/sign/32bbd801cb5134b0cdbb685b54c0cce6?showdoc=.jpg\) 图：gxDNN神经网络处理器的作用
+GXDNN用于将用户生成的Tensorflow模型编译成可以被NPU硬件模块执行的指令，并提供了一套API让用户方便地运行Tensorflow模型。![](/assets/32bbd801cb5134b0cdbb685b54c0cce6?showdoc=.jpg) 图：gxDNN神经网络处理器的作用
 
 GXDNN包括NPU编译工具和NPU执行器。NPU编译工具用于生成能够被NPU执行器执行的文件，该文件里包含了NPU执行指令和模型的描述信息。编译器可以在X86或ARM的Linux环境下使用。
 
@@ -16,7 +16,7 @@ NPU执行器提供了一套API，用于解析执行文件，加载模型，输�
 
 4. 芯片端调用NPU执行函数，传入输入数据，运行得到输出数据。
 
-![](https://www.showdoc.cc/home/common/visitfile/sign/9cbd3d61d2e48d9d5d57cc6f97fce42b?showdoc=.jpg\)
+![](/assets/9cbd3d61d2e48d9d5d57cc6f97fce42b?showdoc=.jpg)
 
 # NPU编译工具
 

@@ -4,7 +4,7 @@ uboot是bootLoader的一种， 运行在内核启动前的一段裸机代码，�
 
 ---
 
-**uboot目录结构**![](https://13421398942.gitbooks.io/gx8010_uboot-openwrt/content/assets/uboot_dir.png)├──api 存放uboot提供的接口函数
+**uboot目录结构**![](/assets/uboot_dir.png)├──api 存放uboot提供的接口函数
 
 ├──arch 与体系结构相关的代码
 
@@ -44,7 +44,7 @@ uboot是bootLoader的一种， 运行在内核启动前的一段裸机代码，�
 
 ├──tools uboot的各种工具软件
 
-![](https://13421398942.gitbooks.io/gx8010_uboot-openwrt/content/assets/uboot_struct.gif)
+![](/assets/uboot_struct.gif)
 
 
 
