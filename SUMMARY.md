@@ -16,6 +16,7 @@
       * [TFTP Boot 启动](ssdkai-fa-ban-kai-fa-zhi-nan/ruan-jian-fang-an/tftp-boot-qi-dong.md)
       * [Rootfs 加载方式](ssdkai-fa-ban-kai-fa-zhi-nan/ruan-jian-fang-an/rootfs-jia-zai-fang-shi.md)
       * [启动流程总结](ssdkai-fa-ban-kai-fa-zhi-nan/ruan-jian-fang-an/qi-dong-liu-cheng-zong-jie.md)
+    * [SSD开发板环境搭建指南](ssdkai-fa-ban-kai-fa-zhi-nan/ssdkai-fa-ban-huan-jing-da-jian-zhi-nan.md)
   * [UAC开发板用户指南](uackai-fa-ban-yong-hu-zhi-nan.md)
 * [搭建开发环境](da-jian-kai-fa-huan-jing.md)
   * [下载代码](da-jian-kai-fa-huan-jing/xia-zai-dai-ma.md)
